@@ -1,0 +1,30 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Jun 11 15:55:03 2019
+
+@author: user
+"""
+
+import json
+str="""[ {"First Name":"Ajay",
+          "Last Name":"Sharma",
+          "photo":"www.google.com"
+          "Department":"cs",
+          "Research areas":["ML","AI"]
+          "contact_detaills":
+                            {
+                             "phone no.":["909","2324"]
+                             "emailid":["faddsf","gjsghd"] 
+                            }
+          } 
+           {"First Name":"Ajay",
+          "Last Name":"Sharma",
+          "photo":"www.google.com"
+          "Department":"cs",
+          "Research areas":["ML","AI"]
+          "contact_detaills":
+                            {
+                             "phone no.":["909","2324"]
+                             "emailid":["faddsf","gjsghd"] 
+                            }
+          }] """
